@@ -30,5 +30,5 @@ return result;
 }
 
 double result = CalcDistanceTwoPoints();
-Console.WriteLine($"Расстояние между точками А и Б = {result}");
+Console.WriteLine($"Расстояние между точками А и Б = {Math.Round(result, 2)}");
 

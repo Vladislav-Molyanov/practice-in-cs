@@ -4,32 +4,9 @@
 // 12 13 14 05
 // 11 16 15 06
 // 10 09 08 07
+// Данная задача не выполнена.
 
 
-double[,] FillSpiralMatrix (int size)
-{
-    double[,] matrix = new double[size,size];
-    int Num = 1;
-    int direction;
-    int i;
-    int j;
-    do
-    {
-        matrix[i,j++] = Num;
-        Num++;
-        if(Num == size )
-        {
-            matrix[i++,j];
-            if (true)
-            {
-                
-            }
-        }
-    } while (size <= size*size);
-
-    
-    return matrix;
-}
 
 void PrintMatrix (double[,] matrix)
 {

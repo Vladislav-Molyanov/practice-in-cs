@@ -48,4 +48,9 @@
     3. [03_exercise](https://github.com/Vladislav-Molyanov/practice-in-cs/blob/main/008_HomeWork/03_exercise/Program.cs)
     4. [04_exercise](https://github.com/Vladislav-Molyanov/practice-in-cs/blob/main/008_HomeWork/04_exercise/Program.cs)
 
++ [009_HomeWork](https://github.com/Vladislav-Molyanov/practice-in-cs/tree/main/009_HomeWork)  
+    1. [01_exercise](https://github.com/Vladislav-Molyanov/practice-in-cs/blob/main/009_HomeWork/01_exercise/Program.cs)
+    2. [02_exercise](https://github.com/Vladislav-Molyanov/practice-in-cs/blob/main/009_HomeWork/02_exercise/Program.cs)
+    3. [03_exercise](https://github.com/Vladislav-Molyanov/practice-in-cs/blob/main/009_HomeWork/03_exercise/Program.cs)
+
 ![like](/img/like.gif)
